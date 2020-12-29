@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "deploy_tf_model_demo", "deploy_tf_model_demo\deploy_tf_model_demo.pyproj", "{D54B1501-AF29-4E4B-8F13-236A17587F48}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D54B1501-AF29-4E4B-8F13-236A17587F48}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D54B1501-AF29-4E4B-8F13-236A17587F48}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EDD06590-4A57-443E-9BAD-DA605C2E1D21}
+	EndGlobalSection
+EndGlobal
